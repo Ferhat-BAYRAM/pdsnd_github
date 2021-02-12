@@ -1,15 +1,30 @@
 ### Date created
-Include the date you created this project and README file.
+
+February 12th 2021 14:30
 
 ### Project Title
-Replace the Project Title
+
+udacity_project-data_share_bike
 
 ### Description
-Describe what your project is about and what it does
+
+We've made an anaylsis for bike share datas for the cities New York City, Washington and Chicago
+
 
 ### Files used
-Include the files used
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+bike_share.py
+.gitignore
+.gitattributes
+
+To run the program the following data files (in the version cleaned by Udacity, ask them) are needed in the same directory:
+chicago.csv 
+washington.csv 
+new_york_city.csv 
+
+### Credits 
+
+Udacity Courses, stackoverflow.com and github.com, devconnected.com, pyhton.org
+
+
 
